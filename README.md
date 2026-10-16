@@ -1,5 +1,5 @@
 # Explainable Reinforcement Learning through Information-Theoretic Policy Compression
-### Sridharan Sankaran (sridharan.sankaran<at>ieee.org)
+### Sridharan Sankaran (sridharan.sankaran@ieee.org)
 
 This repository contains the official code for the paper "**Explainable Reinforcement Learning through Information-Theoretic Policy Compression**", accepted for publication in IEEE Transactions on Artificial Intelligence.
 
