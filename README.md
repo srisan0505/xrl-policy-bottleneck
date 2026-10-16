@@ -1,7 +1,7 @@
 # Explainable Reinforcement Learning through Information-Theoretic Policy Compression
 ### Sridharan Sankaran (sridharan.sankaran@ieee.org)
 
-This repository contains the official code for the paper "**Explainable Reinforcement Learning through Information-Theoretic Policy Compression**", accepted for publication in IEEE Transactions on Artificial Intelligence.
+This repository contains the official code for the paper "**Explainable Reinforcement Learning through Information-Theoretic Policy Compression**", accepted for publication in *IEEE Transactions on Artificial Intelligence*.
 
 The code provides a complete framework for distilling complex, opaque Deep Reinforcement Learning (DRL) models (e.g., Proximal Policy Optimization) into highly interpretable, capacity-constrained decision trees (CART) using a Value-Aware Information Bottleneck approach. It includes tools for evaluating these policies using our proposed Dual-Fidelity metrics (Structural Fidelity and Behavioral Fidelity) and calculating the Performance-Transparency Gap (PTG).
 
